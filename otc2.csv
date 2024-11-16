@@ -1,0 +1,12 @@
+1;1;1;1;0;0;0;0;Advil
+1;0;1;1;0;0;0;0;Tylenol
+1;1;1;1;0;0;0;0;Aleve
+1;1;1;0;0;0;0;0;ASA
+0;0;0;1;1;0;0;0;Benadryl
+0;0;0;0;1;0;0;0;Reactine, Zyrtec
+0;0;0;0;1;0;0;0;Claratin
+0;0;0;0;1;0;0;0;Aerius
+0;0;0;0;0;0;1;0;Imodium
+0;0;0;0;0;0;1;1;Tums, Alka-Seltzer, Rolaid
+0;0;0;1;0;1;1;0;Gravol, Dramamine
+0;0;0;0;0;1;1;1;Pepto-Bismol
