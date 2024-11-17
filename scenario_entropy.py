@@ -16,7 +16,7 @@ try:
 except Exception as e:
     print(f"An error occurred: {e}")
     
-feature_cols = ["Fever?", "Swelling?", "Pain?", "Is it okay to be drowsy?", "Allergy symptoms?", "Nausea?", "My tummy hurts", "Suspected heart attack", "Heartburn?"]
+feature_cols = ["Fever?", "Swelling?", "Pain?", "Is it okay to be drowsy?", "Allergy symptoms?", "Nausea?", "My tummy hurts", "Suspected heart attack?", "Heartburn?"]
 X= otc[feature_cols]
 y= otc.label
 
