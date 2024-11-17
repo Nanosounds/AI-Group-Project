@@ -1,0 +1,13 @@
+﻿Lowers fever? (Antipyretic),Reduces swelling?,Pain relief? (Analgesic),Drowsy?,Histamine-blocker?,Prevents nausea?,"Generalized for ""stomach issues""",Heartburn?,"Drug name(s) (the ""target"" / label)"
+1,1,1,1,0,0,0,0,Ibuprofen
+1,0,1,1,0,0,0,0,"Acetaminophen, Paracetamol"
+1,1,1,1,0,0,0,0,Naproxen
+1,1,1,0,0,0,0,0,Acetylsalicylic acid
+0,0,0,1,1,0,0,0,Diphenhydramine
+0,0,0,0,1,0,0,0,Cetirizine hydrochloride
+0,0,0,0,1,0,0,0,Loratadine
+0,0,0,0,1,0,0,0,Desloratadine
+0,0,0,0,0,0,1,0,Loperamide hydrochloride
+0,0,0,0,0,0,1,1,Calcium carbonate
+0,0,0,1,0,1,1,0,Dimenhydrinate
+0,0,0,0,0,1,1,1,Bismuth subsalicylate
