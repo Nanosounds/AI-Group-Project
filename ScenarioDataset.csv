@@ -1,0 +1,22 @@
+﻿Fever?,Swelling?,Pain?,Is it okay to be drowsy?,Allergy symptoms?,Nausea?,"""My tummy hurts""",Suspected heart attack?,Heartburn?,"Drug name(s) (the ""target"" / label)"
+1,0,0,0,0,0,0,0,0,Ibuprofen
+0,1,0,0,0,0,0,0,0,Ibuprofen
+0,1,1,0,0,0,0,0,0,Ibuprofen
+0,0,1,0,0,0,0,0,0,Ibuprofen
+1,0,1,0,0,0,0,0,0,Ibuprofen
+1,0,1,0,0,0,0,0,0,Acetaminophen
+1,0,0,0,0,0,0,0,0,Acetaminophen
+0,0,1,0,0,0,0,0,0,Acetaminophen
+0,0,1,0,0,0,0,1,0,Acetylsalicylic acid
+0,0,1,0,0,0,0,0,0,Acetylsalicylic acid
+0,1,0,0,0,0,0,0,0,Acetylsalicylic acid
+0,1,1,0,0,0,0,0,0,Acetylsalicylic acid
+1,0,0,0,0,0,0,0,0,Acetylsalicylic acid
+1,0,1,0,0,0,0,0,0,Acetylsalicylic acid
+0,0,0,0,1,0,0,0,0,Cetirizine hydrochloride
+0,0,0,1,1,0,0,0,0,Diphenhydramine
+0,0,0,0,0,0,1,0,1,Calcium carbonate
+0,0,0,0,0,0,0,0,1,Calcium carbonate
+0,0,0,1,0,1,1,0,0,Dimenhydrinate
+0,0,0,1,0,1,0,0,0,Dimenhydrinate
+0,0,0,0,0,1,0,0,0,Dimenhydrinate
